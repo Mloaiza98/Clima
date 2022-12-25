@@ -1,7 +1,8 @@
 # Clima
 
 ## Ejemplo en vivo
-- [¡Pruebalo!](https://mloaiza98.github.io/Clima/)*Instalación necesaria*
+- [¡Pruebalo!](https://mloaiza98.github.io/Clima/)
+ *Instalación necesaria*
 
 ## Descripción 📑
 
